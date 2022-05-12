@@ -9,4 +9,4 @@
 	header('Location: '.$uri.'/dashboard/');
 	exit;
 ?>
-Something is wrong with the XAMPP installation :-(
+Something is test2 with the XAMPP installation :-(
